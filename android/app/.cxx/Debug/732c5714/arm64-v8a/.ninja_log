@@ -1,0 +1,10 @@
+# ninja log v5
+0	1482	1750327817072933923	CMakeFiles/appmodules.dir/OnLoad.cpp.o	1962224fe93444e5
+1482	1588	1750327817185152286	/Users/shaikshabeer/ShabeerCamera/android/app/build/intermediates/cxx/Debug/732c5714/obj/arm64-v8a/libappmodules.so	1b6f75c3e3b5ca42
+0	1323	1750327816915665432	CMakeFiles/appmodules.dir/Users/shaikshabeer/ShabeerCamera/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	210c3f3e66fe25d4
+0	24	0	/Users/shaikshabeer/ShabeerCamera/android/app/.cxx/Debug/732c5714/arm64-v8a/CMakeFiles/cmake.verify_globs	d67d3d3b40dac5f4
+24	291	1750328545272057498	build.ninja	e786561442103491
+0	6	0	/Users/shaikshabeer/ShabeerCamera/android/app/.cxx/Debug/732c5714/arm64-v8a/CMakeFiles/cmake.verify_globs	d67d3d3b40dac5f4
+3	1254	1750328546529905254	CMakeFiles/appmodules.dir/Users/shaikshabeer/ShabeerCamera/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	210c3f3e66fe25d4
+3	1395	1750328546672208064	CMakeFiles/appmodules.dir/OnLoad.cpp.o	1962224fe93444e5
+1395	1505	1750328546786986018	/Users/shaikshabeer/ShabeerCamera/android/app/build/intermediates/cxx/Debug/732c5714/obj/arm64-v8a/libappmodules.so	1b6f75c3e3b5ca42

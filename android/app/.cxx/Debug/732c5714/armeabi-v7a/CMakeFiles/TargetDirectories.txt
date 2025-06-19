@@ -1,0 +1,3 @@
+/Users/shaikshabeer/ShabeerCamera/android/app/.cxx/Debug/732c5714/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/shaikshabeer/ShabeerCamera/android/app/.cxx/Debug/732c5714/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/shaikshabeer/ShabeerCamera/android/app/.cxx/Debug/732c5714/armeabi-v7a/CMakeFiles/rebuild_cache.dir
